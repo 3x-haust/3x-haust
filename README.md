@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3572EF&height=125&section=header" />
 
 # FrameWork
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flutter,flask,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flutter,flask,spring,nestjs)](https://skillicons.dev)
 
 # Language
 [![My Skills](https://skillicons.dev/icons?i=ts,js,dart,python,java)](https://skillicons.dev)

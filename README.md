@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,js,dart,python,java)](https://skillicons.dev)
 
 # Tool
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,figma,discord)](https://skillicons.dev)
 
 ---
 

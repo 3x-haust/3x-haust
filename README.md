@@ -25,7 +25,7 @@
 - [2024 SW 동행 데모데이] [**GreenOne**](https://github.com/3x-haust/GreenOne) 장려상 - FE 및 BE 개발 <sub>(2024.10.21 ~ 2024.10.25)</sub>
 - [2024 태국 국제교류(국제화지원사업)] [**국립중앙박물관 소개**](https://github.com/3x-haust/React_thai) - FE 개발 및 디자인 <sub>(2024.10.26 ~ 2024.10.27)</sub>
 - [메이커 페어 서울 2024] [**MagicMirror**](https://github.com/3x-haust/2024MakerFaire_MagicMirror) - 기획 및 FE, BE 개발 <sub>(2024.07.17 ~ 2024.10.13)</sub>
-- [SW 동행 해커톤] [**Whatpl**](https://github.com/3x-haust/Whatpl) 후원기업상 - 기획 및 FE, BE 개발 <sub>(2024.11.23 ~ 2024.11.24)</sub>
+- [2024 SW 동행 해커톤] [**Whatpl**](https://github.com/3x-haust/Whatpl) 후원기업상 - 기획 및 FE, BE 개발 <sub>(2024.11.23 ~ 2024.11.24)</sub>
 
 ---
 

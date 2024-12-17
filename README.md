@@ -15,6 +15,10 @@
 
 ---
 
+<details>
+<summary>Activity</summary>
+<div markdown="1">
+
 - [사이드 프로젝트] [**MrimToday**](https://github.com/3x-haust/Nods.js_SchoolMealAuto) - 기획 및 개발 <sub>(2024.05.21 ~ 2024.05.26)</sub>
 - [앱잼 26회] [**QuestLink**](https://github.com/3x-haust/Node.js_AppJamQuestLink) 생활파트 최우수상 - 기획 참여 및 BE 개발 <sub>(2024.06.22 ~ 2024.06.23)</sub>
 - [사이드 프로젝트] [**EzyLang**](https://github.com/3x-haust/Java_EzyLang) - 기획 및 개발 <sub>(2024.07.20 ~ 2024.09.1)</sub>
@@ -26,6 +30,9 @@
 - [2024 태국 국제교류(국제화지원사업)] [**국립중앙박물관 소개**](https://github.com/3x-haust/React_thai) - FE 개발 및 디자인 <sub>(2024.10.26 ~ 2024.10.27)</sub>
 - [메이커 페어 서울 2024] [**MagicMirror**](https://github.com/3x-haust/2024MakerFaire_MagicMirror) - 기획 및 FE, BE 개발 <sub>(2024.07.17 ~ 2024.10.13)</sub>
 - [2024 SW 동행 해커톤] [**Whatpl**](https://github.com/3x-haust/Whatpl) 후원기업상 - 기획 및 FE, BE 개발 <sub>(2024.11.23 ~ 2024.11.24)</sub>
+
+</div>
+</details>
 
 ---
 

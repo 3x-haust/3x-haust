@@ -15,7 +15,7 @@
 
 ---
 
-<details>
+<details open>
 <summary>Activity</summary>
 <div markdown="1">
 

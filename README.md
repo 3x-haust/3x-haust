@@ -22,7 +22,7 @@
 - [사이드 프로젝트] [**MrimToday**](https://github.com/3x-haust/Nods.js_SchoolMealAuto) - 기획 및 개발 <sub>(2024.05.21 ~ 2024.05.26)</sub>
 - [앱잼 26회] [**QuestLink**](https://github.com/3x-haust/Node.js_AppJamQuestLink) 생활파트 최우수상 - 기획 참여 및 BE 개발 <sub>(2024.06.22 ~ 2024.06.23)</sub>
 - [사이드 프로젝트] [**EzyLang**](https://github.com/3x-haust/Java_EzyLang) - 기획 및 개발 <sub>(2024.07.20 ~ 2024.09.1)</sub>
-- [2024 SK하이닉스 하인슈타인 올림피아드 대회] [**JoinUS**](https://github.com/3x-haust/JoinUS) 발표상 - BE 개발 <sub>(2024.08.05 ~ 2024.09.07)</sub>
+- [2024 SK하이닉스 하인슈타인 올림피아드 대회] [**JoinUS**](https://github.com/app-and-me/JoinUS) 발표상 - BE 개발 <sub>(2024.08.05 ~ 2024.09.07)</sub>
 - [사이드 프로젝트] [**Blog**](https://github.com/3x-haust/3xhaust_blog) - 기획 및 FE, BE 개발 <sub>(2024.09.02 ~ )</sub>
 - [사이드 프로젝트] [**AvnoiFramework**](https://github.com/3x-haust/Java_AvnoiFramework) - <sub>기획 및 개발 (2024.09.8 ~ )</sub>
 - [2024 미림 해커톤] [**Dash**](https://github.com/3x-haust/2024_MITHON_Dash) 최우수상 - 기획 및 FE, BE 개발 및 UI/UX 디자인 <sub>(2024.10.18 ~ 2024.10.19)</sub>

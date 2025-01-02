@@ -19,7 +19,7 @@
 <summary>Activity</summary>
 <div markdown="1">
 
-- [사이드 프로젝트] [**MrimToday**](https://github.com/3x-haust/Nods.js_SchoolMealAuto) - 기획 및 개발 <sub>(2024.05.21 ~ 2024.05.26)</sub>
+- [사이드 프로젝트] [**MrimToday**](https://github.com/3x-haust/Nods.js_MirimToday) - 기획 및 개발 <sub>(2024.05.21 ~ 2024.05.26)</sub>
 - [앱잼 26회] [**QuestLink**](https://github.com/3x-haust/Node.js_AppJamQuestLink) 생활파트 최우수상 - 기획 참여 및 BE 개발 <sub>(2024.06.22 ~ 2024.06.23)</sub>
 - [사이드 프로젝트] [**EzyLang**](https://github.com/3x-haust/Java_EzyLang) - 기획 및 개발 <sub>(2024.07.20 ~ 2024.09.1)</sub>
 - [2024 SK하이닉스 하인슈타인 올림피아드 대회] [**JoinUS**](https://github.com/app-and-me/JoinUS) 발표상 - BE 개발 <sub>(2024.08.05 ~ 2024.09.07)</sub>

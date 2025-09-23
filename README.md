@@ -33,7 +33,7 @@
 - [사이드 프로젝트] [**Mirim OAuth**](https://github.com/3x-haust/React.js_MmhsOAuth_Client) - 기획 및 FE, BE 개발 <sub>(2025.02.25 ~ )</sub>
 - [사이드 프로젝트] [**EzyAPI**](https://github.com/3x-haust/Python_Ezy_API) - 기획 및 프레임워크 개발 <sub>(2025.03.11 ~ )</sub>
 - [유톤 1회] [**Argo**](https://github.com/3x-haust/Flutter_2025_uthon_argo) 장려상 - 프론트엔드 개발 <sub>(2025.07.26 ~ 2025.07.27)</sub>
-
+- [사이드 프로젝트] [**JavaUI**](https://github.com/3x-haust/Java_JavaUI) - 기획 및 프레임워크 개발 <sub>(2025.08.11 ~ )</sub>
 </div>
 </details>
 

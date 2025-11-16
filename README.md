@@ -1,5 +1,3 @@
-### 세상을 Ezy하게 살기위해 Hard하게 개발하는 개발자, 유성윤 입니다!
-
 <div align="center">
 
 # FrameWork

@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 <!--# FrameWork
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flutter,flask,spring,nestjs)](https://skillicons.dev)
@@ -11,11 +11,9 @@
 
 ![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=nej08HFsp7A&theme=stream)
 
-</div>
+<!-- </div> -->
 
----
-
-<details open>
+<!--  <details open>
 <summary>Activity</summary>
 <div markdown="1">
 
@@ -35,6 +33,4 @@
 - [유톤 1회] [**Argo**](https://github.com/3x-haust/Flutter_2025_uthon_argo) 장려상 - 프론트엔드 개발 <sub>(2025.07.26 ~ 2025.07.27)</sub>
 - [사이드 프로젝트] [**JavaUI**](https://github.com/3x-haust/Java_JavaUI) - 기획 및 프레임워크 개발 <sub>(2025.08.11 ~ )</sub>
 </div>
-</details>
-
----
+</details> -->

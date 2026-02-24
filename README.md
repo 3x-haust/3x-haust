@@ -1,13 +1,15 @@
 <div align="center">
 
-# FrameWork
+<!--# FrameWork
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flutter,flask,spring,nestjs)](https://skillicons.dev)
 
 # Language
 [![My Skills](https://skillicons.dev/icons?i=ts,js,dart,python,java)](https://skillicons.dev)
 
 # Tool
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,figma,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,figma,discord)](https://skillicons.dev) -->
+
+![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=Gbb2A5m7d_4&theme=stream)
 
 </div>
 
@@ -36,6 +38,3 @@
 </details>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3x-haust&layout=compact)
-

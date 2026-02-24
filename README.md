@@ -9,7 +9,7 @@
 # Tool
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,figma,discord)](https://skillicons.dev) -->
 
-![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=Gbb2A5m7d_4&theme=stream)
+![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=nej08HFsp7A&theme=stream)
 
 </div>
 
